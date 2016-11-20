@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/ct409/Desktop/URC2017/RepetierHost
+mono RepetierHost.exe -home /home/ct409/Desktop/URC2017/RepetierHost&

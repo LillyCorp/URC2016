@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Repetier-Host
+Exec=/usr/bin/mono /home/ct409/Desktop/URC2017/RepetierHost/RepetierHost.exe -home /home/ct409/Desktop/URC2017/RepetierHost
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/home/ct409/Desktop/URC2017/RepetierHost
+Icon=/home/ct409/Desktop/URC2017/RepetierHost/repetier-logo.png
+MimeType=application/sla;text/gcode;application/wavefront-obj;application/x-amf;
+
